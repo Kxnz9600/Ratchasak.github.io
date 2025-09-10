@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MYSHOP>
+    <SHOP>
+        <PID>P001</PID>
+        <PNAME>Phone</PNAME>
+        <DETAIL>Samsung A15</DETAIL>
+        <STOCK>10</STOCK>
+    </SHOP>
+    <SHOP>
+        <PID>P002</PID>
+        <PNAME>Notebook</PNAME>
+        <DETAIL>Acer Aspire 5</DETAIL>
+        <STOCK>5</STOCK>
+    </SHOP>
+    <SHOP>
+        <PID>P003</PID>
+        <PNAME>Earphones</PNAME>
+        <DETAIL>JBL Tune 230</DETAIL>
+        <STOCK>15</STOCK>
+    </SHOP>
+    <SHOP>
+        <PID>P005</PID>
+        <PNAME>Bag</PNAME>
+        <DETAIL>กระเป๋าเป้ Adidas</DETAIL>
+        <STOCK>20</STOCK>
+    </SHOP>
+    <SHOP>
+        <PID>P005</PID>
+        <PNAME>Watch</PNAME>
+        <DETAIL>Xiaomi Band 8</DETAIL>
+        <STOCK>25</STOCK>
+    </SHOP>
+</MYSHOP>

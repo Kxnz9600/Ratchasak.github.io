@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MYSHOP>
+    <SHOP>
+        <CID>00001</PID>
+        <PNAME>MOUSE</PNAME>
+        <DETAIL>NUBWO OKER LOGITECH</DETAIL>
+        <STOCK>999</STOCK>
+    </SHOP>
+    <SHOP>
+        <CID>00002</PID>
+        <PNAME>KEYBOARD</PNAME>
+        <DETAIL>LENOVO MOFII NUBWO OKER</DETAIL>
+        <STOCK>500</STOCK>
+    </SHOP>
+</MYSHOP>

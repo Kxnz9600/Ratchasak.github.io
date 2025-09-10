@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MYSHOP>
+    <SHOP>
+        <UID>U001</UID>
+        <USER>สมชาย</USER>
+        <PASS>สมชาย99</PASS>
+        <UNAME>สมชาย ผลดี</UNAME>
+        <TEL>556-995</TEL>
+    </SHOP>
+    <SHOP>
+        <UID>U002</UID>
+        <USER>ยอด</USER>
+        <PASS>ยอด88</PASS>
+        <UNAME>ยอด พลเมือง</UNAME>
+        <TEL>626-954</TEL>
+    </SHOP>
+    <SHOP>
+        <UID>U003</UID>
+        <USER>ดาริน</USER>
+        <PASS>ดาริน123</PASS>
+        <UNAME>ดาริน สมบัติงาม</UNAME>
+        <TEL>687-555</TEL>
+    </SHOP>
+    <SHOP>
+        <UID>U004</UID>
+        <USER>ภาณุพงษ์</USER>
+        <PASS>ภาณุพงษ์168</PASS>
+        <UNAME>ภาณุพงษ์ ทรงไทรงาม</UNAME>
+        <TEL>652-879</TEL>
+    </SHOP>
+    <SHOP>
+        <UID>U005  </UID>
+        <USER>นารีรัตน์</USER>
+        <PASS>นารีรัตน์999</PASS>
+        <UNAME>นารีรัตน์ แซ่หนัง</UNAME>
+        <TEL>257-558</TEL>
+    </SHOP>
+</MYSHOP>
